@@ -2,6 +2,8 @@
 
 Estudiante en segundo año en tecnicatura en Programación
 
+![](perfil.jpeg)
+
 ### Legajo: CPU-9890
 
 Tengo 28 años, trabajo como Data Engineer en la empresa Everis NTT Data hace aproximadamente seis meses, me apasiona programar, me gusta conocer nuevas herramientas de desarrollo, trabajo en el area de modelado de datos y trato de buscarle la logica cuando se presenta un problema. 
